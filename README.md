@@ -44,8 +44,8 @@ flutter build web --release --base-href /texflow/
 
 O site é 100% estático e não chama nenhuma API, então não há nada de CORS para configurar.
 
-O endereço fica `https://<dono>.github.io/<nome-do-repositório>/`. Para este repositório (`TexFlowDevs/texflow_site`):
-`https://texflowdevs.github.io/texflow_site/`
+O endereço fica `https://<dono>.github.io/<nome-do-repositório>/`. Para este repositório (`Emeer18/texflow_site`):
+`https://emeer18.github.io/texflow_site/`
 
 O ponto mais importante é o `--base-href`, que precisa ser o nome do repositório. Sem ele a página abre em branco.
 

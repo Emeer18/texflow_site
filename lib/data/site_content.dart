@@ -7,7 +7,7 @@ enum SecaoSite {
   app('O app'),
   como('Como funciona'),
   tecnologias('Tecnologias'),
-  equipe('Desenvolvedores');
+  equipe('Desenvolvedor');
 
   final String titulo;
 
@@ -274,8 +274,6 @@ class SiteContent {
 
   static const equipe = [
     MembroEquipe(nome: 'Emerson Lucas Bertelli Cardoso'),
-    MembroEquipe(nome: 'Lucas Portella'),
-    MembroEquipe(nome: 'Gabriel Reiter'),
   ];
 
   static const projeto = 'Projeto do curso +Devs2Blu';

@@ -17,7 +17,7 @@ class TeamSection extends StatelessWidget {
         children: [
           const SectionHeading(
             etiqueta: 'Quem construiu',
-            titulo: 'Desenvolvedores',
+            titulo: 'Desenvolvedor',
             subtitulo: SiteContent.projeto,
           ),
           const SizedBox(height: 48),

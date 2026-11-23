@@ -101,7 +101,7 @@ class FooterSection extends StatelessWidget {
             spacing: 24,
             children: [
               Text(
-                '© 2026 ${SiteContent.nome}. ${SiteContent.projeto}.',
+                '© 2026 ${SiteContent.nome}. Todos os direitos reservados.',
                 style: SiteText.estilo(
                   tamanho: 14,
                   cor: Colors.white54,

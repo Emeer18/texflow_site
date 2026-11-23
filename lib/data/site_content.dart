@@ -272,9 +272,5 @@ class SiteContent {
     ),
   ];
 
-  static const equipe = [
-    MembroEquipe(nome: 'Emerson Lucas Bertelli Cardoso'),
-  ];
-
-  static const projeto = 'Projeto do curso +Devs2Blu';
+  static const equipe = [MembroEquipe(nome: 'Emerson Lucas Bertelli Cardoso')];
 }
